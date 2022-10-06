@@ -1,0 +1,51 @@
+*{
+    font-family: sans-serif,serif;
+}
+
+.img{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    float: left;
+}
+.imgdot{
+    width: 5px;
+    height: 10px;
+}
+.bt{
+    width: 70px;
+    height:25px;
+    background-color: rgb(26, 184, 26);
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.bt1{
+    width: 70px;
+    height:25px;
+    background-color: rgb(0, 69, 245);
+    border: none;
+    border-radius: 5px;
+    color: white;
+
+}
+#custom th{
+    text-align: left;
+}
+#custom td{
+    height: 45px;
+    background-color: lightgray;
+    padding-left: 2px;
+    padding-top: 2px;
+    border-radius: 5px;
+    border: none;
+    
+}
+.ccolor{
+    color: blue;
+}
+.fsize{
+    font-size: 12px;
+}
+
+
